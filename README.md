@@ -1,5 +1,5 @@
 <h1 align="center">Hey people ,Welcome to my github profile 🌍 💻 🧪</h1>
-<h2 align="center">I'm Soontarephan tamang </h2>
+<h2 align="center">I'm Soontarephan Tamang </h2>
 <h3 align="center">I’m in the process of learning to be a bioinformatician.👩‍🏫 </h3>
 
 #### My contact : soontarephan.tm@student.mahidol.ac.th 
