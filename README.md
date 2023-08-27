@@ -13,8 +13,10 @@ about molecular genetic.
 ### Expectation ✌🏻👩‍💻
 Present I’m studying in Medical Bioinformatics in Master Degree ,Siriraj hospital ,Mahidol university. \
 I have expected to build on the skill from bioinformatics knowledge  to adjust the treatment 
-for help a lot of patients who have unknown detail of disease for the purpose of increase survivor rate.
+for help a lot of patients who have unknown detail of disease for the purpose of increase survivor rate. \
+<h4 align="center"> Just do it </h4>
 
+![](https://images.template.net/wp-content/uploads/2016/11/16124423/Branding-Minimal-Animated-Gif.gif)
 <!--
 **Tamjasoon/Tamjasoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
